@@ -103,20 +103,5 @@ CREATE TABLE appointment (
 
 ---
 
-## Setup Instructions
-1. Clone the repository.
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Setup PostgreSQL and update `db.js` with credentials.
-4. Run database migrations.
-5. Start the backend:
-   ```sh
-   node server.js
-   ```
-6. Start the frontend:
-   ```sh
-   npm run dev
-   ```
+## Video ( Note the application that i was using to record don't support inbuilt voices from system so posted another video for that!)[Interview Scheduler Video.webm](https://github.com/user-attachments/assets/419cb54b-058d-43b4-8e4e-75d9aee6a49d)
 
